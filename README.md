@@ -1,6 +1,6 @@
 # mein_test
 
-##meine zweite überschrift
+#meine zweite überschrift
 
 * punkt
 * punkt zwei
