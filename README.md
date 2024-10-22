@@ -11,3 +11,4 @@
 [x] Git kennenlernen
 
 [ ] neuer Punkt
+[ ] start with thesis
